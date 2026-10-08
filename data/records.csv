@@ -1,0 +1,31 @@
+trip_id,start_station,end_station,start_time,minutes,rider
+T801,Atakent,KBTU,2026-10-05 10:05,61,Nurlan Z.
+T802,Atakent,Esentai,2026-10-05 10:20,67,Ruslan N.
+T803,Atakent,Esentai,2026-10-05 16:50,86,Madina B.
+T804,KBTU,KazNU,2026-10-05 18:05,87,Askar B.
+T805,Arbat,Arbat,2026-10-06 11:05,58,Saule B.
+T806,Atakent,KBTU,2026-10-06 13:50,56,Bekzat Z.
+T807,Mega Alma-Ata,Botanical Garden,2026-10-06 16:05,73,Dauren S.
+T808,Esentai,Atakent,2026-10-06 19:05,93,Saule E.
+T809,KazNU,KBTU,2026-10-06 20:50,78,Aliya T.
+T810,Mega Alma-Ata,KBTU,2026-10-07 09:35,71,Timur E.
+T811,Mega Alma-Ata,Esentai,2026-10-07 18:05,8,Aigerim I.
+T812,KBTU,Arbat,2026-10-08 09:20,94,Dauren Z.
+T813,Atakent,Atakent,2026-10-08 13:50,77,Dana B.
+T814,Botanical Garden,Esentai,2026-10-08 16:50,17,Sanzhar A.
+T815,Atakent,Atakent,2026-10-08 18:05,88,Saule Z.
+T816,KazNU,KBTU,2026-10-09 08:20,6,Madina K.
+T817,Atakent,KazNU,2026-10-09 08:35,48,Zhanna K.
+T818,Esentai,Botanical Garden,2026-10-09 15:35,23,Togzhan S.
+T819,Arbat,KBTU,2026-10-10 08:50,87,Togzhan O.
+T820,Atakent,Mega Alma-Ata,2026-10-10 08:50,76,Kamila K.
+T821,Esentai,Mega Alma-Ata,2026-10-10 12:35,86,Ruslan E.
+T822,Mega Alma-Ata,Esentai,2026-10-10 19:20,68,Arman K.
+T823,Esentai,KBTU,2026-10-10 20:05,29,Yerlan T.
+T824,Arbat,Botanical Garden,2026-10-10 21:50,26,Sanzhar B.
+T825,Esentai,KazNU,2026-10-11 14:20,11,Nursultan A.
+T826,KBTU,KBTU,2026-10-11 15:20,55,Dilnaz A.
+T827,Esentai,Esentai,2026-10-11 19:50,47,Yerlan M.
+T828,Botanical Garden,Botanical Garden,2026-10-11 20:20,26,Zhanna B.
+T829,KazNU,Esentai,2026-10-11 21:20,48,Arman A.
+T830,Mega Alma-Ata,Arbat,2026-10-11 21:50,21,Yerlan M.
