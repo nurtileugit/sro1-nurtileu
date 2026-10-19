@@ -1,45 +1,48 @@
 #0 building with "desktop-linux" instance using docker driver
 
 #1 [internal] load build definition from Dockerfile.v1
-#1 transferring dockerfile: 258B 0.0s done
-#1 DONE 0.0s
+#1 transferring dockerfile: 260B 0.0s done
+#1 DONE 0.1s
 
 #2 [internal] load metadata for docker.io/library/python:3.12-alpine
-#2 DONE 0.0s
+#2 DONE 0.1s
 
 #3 [internal] load .dockerignore
-#3 transferring context: 2B done
+#3 transferring context: 2B 0.0s done
 #3 DONE 0.0s
 
 #4 [internal] load build context
 #4 DONE 0.0s
 
 #5 [1/4] FROM docker.io/library/python:3.12-alpine@sha256:1b668429b3511ab407d8e00648891631b0b1a4d7e15e3ca70f38ab5b91ad4ab4
-#5 resolve docker.io/library/python:3.12-alpine@sha256:1b668429b3511ab407d8e00648891631b0b1a4d7e15e3ca70f38ab5b91ad4ab4 0.0s done
-#5 DONE 0.0s
+#5 resolve docker.io/library/python:3.12-alpine@sha256:1b668429b3511ab407d8e00648891631b0b1a4d7e15e3ca70f38ab5b91ad4ab4 0.1s done
+#5 DONE 0.1s
 
 #4 [internal] load build context
-#4 transferring context: 6.89kB 0.0s done
+#4 transferring context: 5.88kB 0.1s done
 #4 DONE 0.1s
 
 #6 [2/4] WORKDIR /velo-alatau
 #6 CACHED
 
 #7 [3/4] COPY . .
-#7 DONE 0.1s
+#7 DONE 0.2s
 
 #8 [4/4] RUN python tools/build_report.py
-#8 0.440 out/report.json готов: 30 записей, контрольный код F3982945
-#8 DONE 0.5s
+#8 1.236 out/report.json готов: 35 записей, контрольный код F6E76514
+#8 DONE 1.3s
 
 #9 exporting to image
-#9 exporting layers 0.1s done
-#9 exporting manifest sha256:4f0cac9f2df35a6bea5933212e1e2a8e6d07b0a7ed8d7a4f11d888b6cf07995c 0.0s done
-#9 exporting config sha256:81d26244711591d5053c2d05deb08bdae438eb345adc0d5b99aff47df8f8df95 0.0s done
-#9 exporting attestation manifest sha256:d06e497464dff21de7cb405a222791f2638318230c705a6f2a0221a6b4f7ef6c 0.0s done
-#9 exporting manifest list sha256:533459a3fff2534cfede579a8595dd139409ee6ea9b29255245f5d5c76dc4fa0 0.0s done
+#9 exporting layers
+#9 exporting layers 0.4s done
+#9 exporting manifest sha256:95f2b9dda7dd6fe14b901959aa899093451ded04cfd390d50fb4a5eef9e04154 0.0s done
+#9 exporting config sha256:d5026be0678f64e3abdc9f9546d3b58e6d48eba0aec1c36c3fb45371fada78a2 0.1s done
+#9 exporting attestation manifest sha256:a48be79dc2da333d4c60757a014f3fe17c198829baccca5ea784037ab45846d2 0.0s done
+#9 exporting manifest list sha256:89e81b796dd3b0a804a4da848faf2899b13c0f22efac5e85665c77c37ca8e28e 0.0s done
+#9 naming to docker.io/library/velo-alatau:v1
 #9 naming to docker.io/library/velo-alatau:v1 done
-#9 unpacking to docker.io/library/velo-alatau:v1 0.1s done
-#9 DONE 0.3s
+#9 unpacking to docker.io/library/velo-alatau:v1
+#9 unpacking to docker.io/library/velo-alatau:v1 0.3s done
+#9 DONE 1.1s
 
-View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/s42t6m9bvh6v7l3d2fc7asto8
+View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/if7fscnvszoou7qb1hcnr2auv
